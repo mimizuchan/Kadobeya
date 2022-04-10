@@ -26,11 +26,13 @@
   font-family: 'Montserrat', sans-serif;
   font-size: 56px;
   line-height: 72px;
+  text-align: center;
 }
 
 .first-view-text p {
   font-size: 18px;
   margin-top: 20px;
+  text-align: center;
 }
 
 .news {
@@ -148,10 +150,11 @@
 .link-button-area {
   text-align: center;
   margin-top: 40px;
+  color: #fff;
 }
 
 .link-button {
-  background-color: #f4dd64;
+  background-color: #000000;
   display: inline-block;
   min-width: 180px;
   line-height: 48px;
@@ -161,7 +164,7 @@
 }
 
 .link-button:hover {
-  background-color: #d8b500;
+  background-color: #000000;
 }
 
 .recommended {
@@ -234,7 +237,7 @@
   }
 
   .first-view-text {
-    padding-top: 60px;
+    padding-top: 400px;
     padding-left: 20px;
   }
 
